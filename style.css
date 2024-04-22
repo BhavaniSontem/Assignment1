@@ -1,0 +1,70 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  color: black;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  
+}
+.Welcome {
+background-image: url('Images/online.jpg');
+background-size: cover;
+color: white;
+height: 50vh;
+
+}
+    
+
+    .navbar {
+    text-align: left;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: #fff; 
+    padding: 10px 20px; 
+    box-sizing: border-box;
+    z-index: 1000; 
+  }
+
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px; 
+  }
+  
+  .navbar a.active {
+    font-weight: bold; 
+  }
+  
+  .Services {
+    color: black;
+    
+    
+  } 
+
+  .Sponsers{
+    color: black;
+    
+    
+  }
+  .active {
+    color: white;
+    background-image: url('Images/contact.jpg');
+    padding-bottom: 20px;
+    background-size: cover;
+  }
+
+  .form-group {
+    color:wheat;
+    margin-bottom: 15px;
+  }
+
+  footer {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    }
